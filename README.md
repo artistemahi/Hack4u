@@ -6,7 +6,7 @@ Smart Lost & found website!
 You can download the release asset (403 MB) from the Releases section:
 
 **Direct download:**  
-[Download the file (ZIP)](https://github.com/artistemahi/Hack4u/releases/download/project/project.zip)
+[Download the file (ZIP)](https://github.com/artistemahi/Hack4u/releases/tag/hack4u)
 
 > Or: Go to the **Releases** tab on this repository and click the release titled **project** — you'll find the file under *Assets*.
 
